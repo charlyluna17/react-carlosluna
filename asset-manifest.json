@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/charlyluna17/react-carlosluna.git/static/css/main.5d1ee1d1.css",
+    "main.js": "/charlyluna17/react-carlosluna.git/static/js/main.da5a73ff.js",
+    "index.html": "/charlyluna17/react-carlosluna.git/index.html",
+    "main.5d1ee1d1.css.map": "/charlyluna17/react-carlosluna.git/static/css/main.5d1ee1d1.css.map",
+    "main.da5a73ff.js.map": "/charlyluna17/react-carlosluna.git/static/js/main.da5a73ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d1ee1d1.css",
+    "static/js/main.da5a73ff.js"
+  ]
+}
